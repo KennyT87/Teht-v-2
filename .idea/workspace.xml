@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cea53ae-99de-4c4e-88c1-e4fbd0e871f5" name="Changes" comment="Tehtävä 2_3" />
+    <list default="true" id="7cea53ae-99de-4c4e-88c1-e4fbd0e871f5" name="Changes" comment="Tehtävä 2_3">
+      <change afterPath="$PROJECT_DIR$/Tehtävä2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävä2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävä2_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävä2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tehtävä2_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +40,13 @@
     "Python.Tehtävä2.executor": "Run",
     "Python.Tehtävä2_2.executor": "Run",
     "Python.Tehtävä2_3.executor": "Run",
+    "Python.Tehtävä2_4.executor": "Run",
+    "Python.Tehtävä2_5.executor": "Run",
+    "Python.Tehtävä2_6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ktalv/PycharmProjects/Tehtävä2",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ktalv/PycharmProjects/Testi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,15 +72,31 @@
       <updated>1705576895051</updated>
       <workItem from="1705576902759" duration="3499000" />
       <workItem from="1705751390907" duration="1122000" />
+      <workItem from="1705752528605" duration="5878000" />
     </task>
+    <task id="LOCAL−00001" summary="Tehtävä 2_3">
+      <option name="closed" value="true" />
+      <created>1705752547390</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1705752547390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tehtävä 2_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tehtävä 2_3" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2.coverage" NAME="Tehtävä2 Coverage Results" MODIFIED="1705577122724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_4.coverage" NAME="Tehtävä2_4 Coverage Results" MODIFIED="1705856426457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_6.coverage" NAME="Tehtävä2_6 Coverage Results" MODIFIED="1705860781934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_5.coverage" NAME="Tehtävä2_5 Coverage Results" MODIFIED="1705858860825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_2.coverage" NAME="Tehtävä2_2 Coverage Results" MODIFIED="1705584009055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_3.coverage" NAME="Tehtävä2_3 Coverage Results" MODIFIED="1705751999574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tehtävä2$Tehtävä2_3.coverage" NAME="Tehtävä2_3 Coverage Results" MODIFIED="1705860662933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
